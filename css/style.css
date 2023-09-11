@@ -1,0 +1,25 @@
+fieldset{
+    background-image: url("../imagen/sai2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-color: aqua;
+    width: 50%;
+}
+body{
+    background-image: url("../imagen/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-color: aqua;
+}
+
+/*#samuel{
+  color:red;
+  background-color: blue;
+}*/
+#samuel1{
+  background-color: yellow;
+}
